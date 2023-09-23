@@ -1,0 +1,78 @@
+-=>>Mochila<<=-
+
+
+-=>>Armas<<=-
+
+Espada de ferro (+25 de dano fisico)
+
+=====================Brancas=======================
+
+
+=====================Primarias=====================
+
+
+=====================Secundarias===================
+
+
+-=>>Munição<<=-
+
+
+-=>>Equipamento<<=-
+
+
+
+-=>>Dinheiro<<=-
+
+
+Crédito : 
+    0 moedas de bronze
+    0 moedas de prata
+    0 moedas de ouro
+
+
+-=>>Curas<<=-
+
+
+
+-=>>Roupas<<=-
+
+[x] Basicas = Imagem de perfil
+
+
+-=>>Comidas<<=-
+
+
+==(Bebidas)== 
+
+
+
+==(Vegetais)==
+
+
+==(Carnes)== 
+
+
+==(Massa)==
+
+
+==(Outros)== 
+
+
+
+-=>>Especiais<<=-
+
+
+
+-=>>Materiais<<=-
+
+
+
+-=>>Utencilios basicos<<=-
+
+
+
+
+
+
+
+
