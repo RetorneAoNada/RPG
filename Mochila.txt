@@ -66,13 +66,17 @@ Crédito :
 
 -=>>Materiais<<=-
 
-    3 Folhas
-    1 Tinteiro uso (5/20)
+    2 Folhas
+    1 Tinteiro uso (4/20)
     1 Pena de tinteiro
 
 -=>>Utencilios basicos<<=-
-
-
+    Mapa do caminho:
+        -Olhos (Sala escura)
+        -Inimigos (sala 1)
+        -Artefato na sala grande (Rato rodando em círculos)
+    
+    Lupa (Feita pelo Leonard): +2 no bonus de investigação
 
 
 
