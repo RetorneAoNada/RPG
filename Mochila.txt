@@ -1,9 +1,10 @@
 -=>>Mochila<<=-
 
+    5 bandagens
+    4 ervas-(cura) [Full life - no descanso]
+
 
 -=>>Armas<<=-
-
-Espada de ferro (+25 de dano fisico)
 
 =====================Brancas=======================
 
@@ -65,7 +66,9 @@ Crédito :
 
 -=>>Materiais<<=-
 
-
+    3 Folhas
+    1 Tinteiro uso (5/20)
+    1 Pena de tinteiro
 
 -=>>Utencilios basicos<<=-
 
