@@ -1,0 +1,168 @@
+[==== Alma Vagante =====]
+
+Personalidade = Neutro
+
+
+Idade : 50 Anos
+
+Sexo : Homem
+
+Raça : Humano
+
+Classe : Mago
+
+Altura : 1.70
+
+
+
+Gosta de >>[ Ficar sozihno lembrando de sua família / Desenhar paisagem morta / Entalhar Cajado / Gosta de ver o mundo sob as montanhas ]<<
+
+
+Nome : Elrik
+
+
+[]=[]=[]=[]=[]=[]=[]=[]
+
+
+
+[ HP ] = 75
+
+
+[ Energia ] = 125
+
+
+[ Stress ] = 0 >>    -0 de stats   +0 de dano
+
+
+
+[]=[]=[]=[]=[]=[]=[]=[]
+
+
+Defesa
+    |
+    |_>> Fisica = 0 ( 0 ) = 0
+    |
+    |_>> Mágica = 0 ( 0 ) = 0
+    |
+    |_>> Redução de dano = 10%
+
+
+Resistências Adicionais
+    |
+    |_>> ???
+
+
+
+[]=[]=[]=[]=[]=[]=[]=[]
+
+
+[= Força =] (10)
+    |
+    |_>> Dano corpo a corpo (5) = + 10
+    |
+    |_>> Levantamento de peso (5) = + 25
+
+
+[= Constituição =] (20)
+    |
+    |_>> HP natural (15) = 75
+    |
+    |_>> Redução de dano (5) = 10%
+
+
+[= Sabedoria =] (40)
+    |
+    |_>> Energia natural (25) = 125 ( 250 )
+    |
+    |_>> Eficiência em poder = 
+    |       |
+    |       |_>> ( Nome ) = 0%
+    |       |
+    |       |_>> ( Nome ) = 0%
+    |       |
+    |       |_>> ( Nome ) = 0%
+    |       |
+    |       |_>> ( Nome ) = 0%
+    |
+    |_>> Dano em poder = 
+            |
+            |_>> ( Nome ) = 0%
+            |
+            |_>> ( Nome ) = 0%
+            |
+            |_>> ( Nome ) = 0%
+            |
+            |_>> ( Nome ) = 0%
+ 
+
+
+[= Precisão =] (20)
+    |
+    |_>> Corpo a corpo (3) = 6 % 
+    |
+    |_>> Longo alcance (17) = 34 %
+
+
+[= Destreza =] (10)
+    |
+    |_>> Esquiva corpo a corpo (5) = 10%
+    |
+    |_>> Esquiva longo alcance (5) = 10 %
+
+
+
+
+========>> Profissões <<======== 
+
+[x] Rei de Galois = Acesso total em tudo que est� no reino de Galois.
+
+
+========>> Buffs <<========
+
+
+========>> Habilidades <<======== 
+
+[1] Bola de fogo (clássico)
+    |
+    |_>> Dano = 2d20 + 20
+    |
+    |_>> Custo = 15 de Mana
+
+
+[2] Chamado da mãe terra = Cria grandes ra�zes nos alvos de uma determinada região
+    |
+    |_>> Imobilização = Pode imobilizar até 2 alvos ( 1d20>12 resist ) 
+    |
+    |_>> Duração da imobilização = 3 turnos
+    |
+    |_>> Usos = 3x por batalha
+    |
+    |_>> Custo = 20 de Mana
+
+
+[3] A última luz = Por poucos instantes, tudo se nega a morrer em sua volta.
+    |
+    |_>> Efeito = Nada pode morrer durante a duração da habilidade.
+    |
+    |_>> Usos = 2x por batalha
+    |
+    |_>> Duração = 4 turnos
+    |
+    |_>> Custo = 25% da Mana
+
+
+========>> Passivas <<========
+
+[1] Mana Divina = Nasceu com um contato anormal com a magia, seu desenvolvimento de mana e mais eficiente que o normal
+    |
+    |_>> Energia natural : o dobro que o normal ( x2 )
+
+
+========>> Transformções <<========  
+
+
+    
+
+
+
+   
