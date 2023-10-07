@@ -1,7 +1,7 @@
 -=>>Mochila<<=-
 
     4 bandagens
-    3 ervas-(cura) [Full life - no descanso]
+    2 ervas-(cura) [Full life - no descanso]
 
 
 -=>>Armas<<=-
@@ -60,7 +60,8 @@ Crédito :
 
 
 ==(Outros)== 
-
+- Mapa do caminho
+- Desenho do Boss (Necromante)
 
 
 -=>>Especiais<<=-
@@ -69,8 +70,8 @@ Crédito :
 
 -=>>Materiais<<=-
 
-    3 Folhas
-    1 Tinteiro uso (5/20)
+    2 Folhas
+    1 Tinteiro uso (4/20)
     1 Pena de tinteiro
 
 -=>>Utencilios basicos<<=-
