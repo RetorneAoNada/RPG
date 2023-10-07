@@ -1,7 +1,7 @@
 -=>>Mochila<<=-
 
-    5 bandagens
-    4 ervas-(cura) [Full life - no descanso]
+    4 bandagens
+    3 ervas-(cura) [Full life - no descanso]
 
 
 -=>>Armas<<=-
@@ -20,6 +20,10 @@
 
 -=>>Equipamento<<=-
 
+- Armadura Leve: (15 Defesa física) (3 Kg) 
+    - Capacete (+2Hp) [1500/1500]
+    - Tronco [1500/1500]
+    - Luva [1500/1500]
 
 
 -=>>Dinheiro<<=-
@@ -44,7 +48,6 @@ Crédito :
 
 
 ==(Bebidas)== 
-
 
 
 ==(Vegetais)==
