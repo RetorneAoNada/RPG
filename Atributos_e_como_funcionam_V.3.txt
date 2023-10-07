@@ -1,0 +1,125 @@
+[= Força =]
+
+Esse atributo é responsavel por aumentar o dano causado 
+com ataques corpo a corpo e também é usado para fazer o
+personagem levantar certos tipos de pesos, como objetos, itens
+partes do cenário ou outros corpos.
+
+Ele aumenta equivalente a "+2 de dano corpo a corpo" por 
+cada ponto distribuido nele e "+5 kg no levantamento de peso"
+
+
+
+[= Constituição =]
+
+Esse atributo é responsavel por aumentar o HP natural
+que o personagem vai ter durante a campanha e também
+por definir a Redução de dano que o mesmo vai receber
+de cada ataque.
+
+Ele aumenta equivalente a "+5 de HP natural" por cada ponto
+distribuido nele enquanto diminui "2% de dano recebido"
+por ataques ao seu personagem.
+
+
+[= Sabedoria =]
+
+Esse atributo é responsavel por aumentar a Energia natural,
+Eficiência do poder e o Dano de poderes.
+
+Energia natural é os pontos de "MP, Mana, chakra, ki, chi e etc..."
+que o jogador tem pra usar habilidades com essas caracteristicas, um
+belo exemplo é um mago que precisa de >> Mana ou MP << para usar
+suas mágias. ( +5 por ponto )
+
+Eficiência em poder é responsavel por diminuir o custo em certa %
+das habilidades ou seu tempo de recarga. ( Escolha de habilidade e atributo da mesma, falar com o mestre )
+
+Dano em poder é bem simples, ele aumenta o poder das suas habilidades
+ou mágia em +10% baseada no tipo dela.
+
+
+
+[= Precisão =]
+
+Esse atributo é responsavel por aumentar as Precisões do personagem
+assim facilitando o acerto nos oponentes, objetos ou cenário.
+O dado a ser lançado é o D100 ( Some o resultado do dado + a % do atributo )
+
+
+Corpo a corpo = +2% pontos por ponto distribuido
+
+Longo alcance = +2% pontos por ponto distribuido
+
+
+
+[= Destreza =] 
+
+Esse atributo é responsavel por aumentar as esquivas do personagem
+assim dando a chance de escapar dos ataques inimigos, objetos ou partes
+do cenário. 
+O dado a ser lançado é o D100 ( Some o resultado do dado + a % do atributo )
+
+
+Corpo a corpo = +2% pontos por ponto distribuido
+
+Longo alcance = +2% pontos por ponto distribuido
+
+
+
+[=== Como distribuir ===]
+
+Assim que o jogador receber a ficha de seu personagem, o mesmo vai ter cerca
+de 100 pontos para colocar nos atributos que o mesmo desejar.
+
+Existem cerca de 5 categorias e em cada categoria tem de 2 a 3 atributos
+para o jogador aumentar os pontos.
+
+Ex: Caso o jogador escolha a categoria [= Força =] e queira colocar 1 ponto
+    o mesmo tem que decidir em qual dos 2 atributos ele vai colocar esse aumento
+    de atributo.
+
+Ex2:
+[= Força =] ( +1 )
+    |
+    |_>> Dano corpo a corpo = +2
+    |
+    |_>> Levantamento de peso = +0
+
+ou
+
+[= Força =] ( +1 )
+    |
+    |_>> Dano corpo a corpo = +0
+    |
+    |_>> Levantamento de peso = +5kg
+
+
+==
+No caso do atributo de sabedoria o jogador vai se deparar com 
+"Eficiência em poder" e "Dano em Poder" esses atributos funcionam
+de maneira diferênte dos outros da ficha, porem de maneira simples.
+
+O Jogador coloca em um Slot o nome da sua habilidade e a mesma vai
+upar com a escolha dos pontos distribuidos na categoria pelo jogador.
+
+
+Colocando o nome da habilidade em um slot na categoria de [= Sabedoria =]
+ela sera fortificada, ficando mais forte ou mais eficiente, dependendo
+da categoria que a mesma for adicionada.
+Caso seja adicionada em "Eficiência em Poder" a habilidade passa a ter
+o efeito escolhido aprimorado, assim facilitando seu uso.
+Caso a habilidade seja adicionada em "Dano em Poder" a mesma passa a ter
+seu efeito ou dano aumentado, assim causando mais dano no inimigo ou
+ativando seus efeitos de forma mais forte, por exemplo, uma habilidade
+de dano adicionada em "Dano em Poder" passa a causar mais dano...
+uma Passiva de regeneração passa a recuperar mais HP...
+uma habilidade defensiva passa a ter suas resistências mais fortes.
+
+
+
+
+
+
+
+
