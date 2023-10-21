@@ -114,7 +114,7 @@ Resistências Adicionais
 
 ========>> Profissões <<======== 
 
-[x] Rei de Galois = Acesso total em tudo que est� no reino de Galois.
+[x] Rei de Galois = Acesso total em tudo que está no reino de Galois.
 
 
 ========>> Buffs <<========
@@ -129,7 +129,7 @@ Resistências Adicionais
     |_>> Custo = 15 de Mana
 
 
-[2] Chamado da mãe terra = Cria grandes ra�zes nos alvos de uma determinada região
+[2] Chamado da mãe terra = Cria grandes raízes nos alvos de uma determinada região
     |
     |_>> Imobilização = Pode imobilizar até 2 alvos ( 1d20>12 resist ) 
     |

@@ -1,10 +1,10 @@
 -=>>Mochila<<=-
-
     3 bandagens
     1 ervas-(cura) [Full life - no descanso]
 
 
 -=>>Armas<<=-
+
 
 =====================Brancas=======================
 
@@ -19,6 +19,7 @@
 
 
 -=>>Equipamento<<=-
+
 
 - Armadura Leve: (15 Defesa física) (3 Kg) 
     - Capacete (+2Hp) [1500/1500]
@@ -36,11 +37,11 @@ Crédito :
 
 
 -=>>Curas<<=-
-
+    4 pot de vigor leve : Poção de Vigor = Recupera 100 de energia
+    2 pot de vida leve : Poção de Cura = Recupera 100 de vida
 
 
 -=>>Roupas<<=-
-
 [x] Basicas = Imagem de perfil
 
 
@@ -67,12 +68,11 @@ Crédito :
 -=>>Especiais<<=-
 
 
-
 -=>>Materiais<<=-
-
     2 Folhas
     1 Tinteiro uso (4/20)
     1 Pena de tinteiro
+
 
 -=>>Utencilios basicos<<=-
     Mapa do caminho:
@@ -81,9 +81,3 @@ Crédito :
         -Artefato na sala grande (Rato rodando em círculos)
     
     Lupa (Feita pelo Leonard): +2 no bonus de investigação
-
-
-
-
-
-
