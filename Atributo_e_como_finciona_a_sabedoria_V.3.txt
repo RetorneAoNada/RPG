@@ -1,0 +1,150 @@
+[= Sabedoria =]
+
+Esse atributo é responsavel por aumentar a Energia natural,
+Eficiência do poder e o Dano de poderes.
+
+Energia natural é os pontos de "MP, Mana, chakra, ki, chi e etc..."
+que o jogador tem pra usar habilidades com essas caracteristicas, um
+belo exemplo é um mago que precisa de >> Mana ou MP << para usar
+suas mágias. ( +5 por ponto )
+
+Eficiência em poder é responsavel por diminuir o custo em certa %
+das habilidades ou seu tempo de recarga. ( Escolha de habilidade e atributo da mesma, falar com o mestre )
+
+Dano em poder é bem simples, ele aumenta o poder das suas habilidades
+ou mágia em +10% baseada no tipo dela.
+
+
+Falando de forma mais detalhada, em Eficiência em poder é possivel modificar sua habilidade
+para que ela seja mais eficaz ou tenha novas funções coerentes com a habilidade escolhida.
+
+Sacrificando 1 ponto de atributo + slot ( Nome ) na categoria de Eficiência é possivel adicionar um novo
+efeito para uma habilidade / buff / passiva, com isso é possivel adicionar novos efeitos
+coerentes ao poder escolhido, um exemplo abaixo.
+
+[ Antes ]
+
+Slot 1 >> ( Nome ) = 0%
+
+Skill >> Bola de fogo
+          |
+          |_>> Dano = 1d20 + 50
+          |
+          |_>> Efeito = Aplica fogo no inimigo queimando 5 de HP por turno ( d20>12 resist )( não acomulativo )
+          |
+          |_>> Usos = 4x por batalha
+          |
+          |_>> Custo = 25 de mana
+
+[ Depois ]
+
+Slot 1 >> ( Bola de fogo / Efeito 2 ) = x
+
+Skill >> Bola de fogo
+          |
+          |_>> Dano = 1d20 + 50
+          |
+          |_>> Efeito 1 = Aplica fogo no inimigo queimando 5 de HP por turno ( d20>12 resist )( não acomulativo )
+          |
+          |_>> Efeito 2 = O calor do fogo derrete parte de armaduras metalicas normais
+          |               e de couro diminuindo 25 de defesa mágica do alvo. ( não acomulativo )
+          |
+          |_>> Usos = 4x por batalha
+          |
+          |_>> Custo = 25 de mana
+
+
+======== Como modificar o custo das habilidades? ======== 
+
+Para modificar a parte de "Custo" das Habilidades ou Buffs o jogador deve utilizar um "Slot"
+com o nome da habilidade ou buff. ( Bola de fogo / Custo )
+a quantidade que for adicionada em pontos faz a conversão de 1 ponto pra 1 custo.
+Fique atento, usar % (porcentagem) ou + (adição) ou - (subtração) faz com que a conta
+seja feita de forma diferente, então lembre-se de marcar o simbolo da conta.
+Um exemplo abaixo.
+
+[ Antes ]
+
+Slot 1 >> ( Nome ) = 0%
+
+Skill >> Bola de fogo
+          |
+          |_>> Dano = 1d20 + 50
+          |
+          |_>> Efeito = Aplica fogo no inimigo queimando 5 de HP por turno ( d20>12 resist )( não acomulativo )
+          |
+          |_>> Usos = 4x por batalha
+          |
+          |_>> Custo = 25 de mana
+
+
+[ Depois ]
+
+Slot 1 >> ( Bola de fogo / Custo ) = -5 ou +5
+
+Skill >> Bola de fogo
+          |
+          |_>> Dano = 1d20 + 50
+          |
+          |_>> Efeito 1 = Aplica fogo no inimigo queimando 5 de HP por turno ( d20>12 resist )( não acomulativo )
+          |
+          |_>> Usos = 4x por batalha
+          |
+          |_>> Custo = 25 de mana ( -5 = 20 de mana ) ou ( +5 = 30 de mana )
+
+
+
+[ Exemplo 2 ] 
+
+Slot 1 >> ( Bola de fogo / Custo ) = +5% ou -5%
+
+Skill >> Bola de fogo
+          |
+          |_>> Dano = 1d20 + 50
+          |
+          |_>> Efeito 1 = Aplica fogo no inimigo queimando 5 de HP por turno ( d20>12 resist )( não acomulativo )
+          |
+          |_>> Usos = 4x por batalha
+          |
+          |_>> Custo = 25 de mana ( +5% = 26 de mana ) ou ( -5% = 24 de mana )
+
+*obs valores em % seram arredondados*
+
+======= Como funciona e como usar a "Força em Poder" ======= 
+
+Essa categoria é bem simples no caso, ela se trata de tornar os numeros da habilidade mais fortes.
+Em outras palavras, na Categoria de "Dano" ou "Cura" ou "Defesa" etc...
+Essa categoria é exclusiva para a aba apenas de "Habilidades", ela não engloba Buffs ou Passivas
+e sua conversão é de 1 ponto para 10%, a quantidade distribuida é somada ou subtraida 
+do "Dano" da sua habilidade em relação ao resultado dos dados lançados ( some o valor fixo com 
+o valor dos dados a habilidade também tenha) pegue o resultado e some + a % colocado no slot.
+
+>> Exemplo simples <<
+
+Slot 1 >> Dano em poder >> ( Bola de fogo ) = +250%
+
+Skill >> Bola de fogo
+          |
+          |_>> Dano = 1d20 + 50 
+          |
+          |_>> Efeito 1 = Aplica fogo no inimigo queimando 5 de HP por turno ( d20>12 resist )( não acomulativo )
+          |
+          |_>> Usos = 4x por batalha
+          |
+          |_>> Custo = 25 de mana
+
+Role o dado de dano, então some o valor dos dados mais o valor fixo e depois utilize a % no resultado
+
+1d20 ( caiu 15 no dado d20 ) 15+50 = 65
+                             65 + 250% = 227,5 
+
+*Obs, para entender o arredondamento do dano é simples, todo o número do 0,5 pra baixo você mantem e tira
+a virgula, todo o número do 0,6 pra cima você tira a virgula e sobe 1 ponto*
+        |
+        |_>> 227,5 = 227
+        |
+        |_>> 227,6 = 228
+
+
+
+
