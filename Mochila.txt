@@ -1,7 +1,7 @@
 -=>>Mochila<<=-
 
-    4 bandagens
-    2 ervas-(cura) [Full life - no descanso]
+    3 bandagens
+    1 ervas-(cura) [Full life - no descanso]
 
 
 -=>>Armas<<=-
